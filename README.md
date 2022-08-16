@@ -41,7 +41,7 @@ In rnafusion the full-sized test includes reference building and fusion detectio
 
 ## Pipeline summary
 
-![nf-core/rnafusion metro map](docs/images/nf-core-rnafusion_metro_map.png)
+![nf-core/rnafusion metro map](https://raw.githubusercontent.com/nf-core/rnafusion/master/docs/images/nf-core-rnafusion_metro_map.png)
 
 #### Build references
 
